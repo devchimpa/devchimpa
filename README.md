@@ -13,3 +13,4 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa)](https://github.com/devchimpa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2)](https://github.com/devchimpa/github-readme-stats)
