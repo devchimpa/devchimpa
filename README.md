@@ -16,5 +16,3 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 </div>
 
 
-*
-
