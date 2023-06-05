@@ -12,7 +12,7 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2&theme=chartreuse-dark)](https://github.com/devchimpa/github-readme-stats&theme=chartreuse-dark) 
 
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devchimpa)](https://github.com/devchimpa/github-readme-stats)
 
 </div>
 
