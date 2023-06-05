@@ -11,4 +11,3 @@ Possuo conhecimento em Linux, Shellscript e atualmente buscando aprimorar minhas
 No momento, estou focado em expandir meu conhecimento em Python e Segurança da Informação, em busca de novas oportunidades de crescimento e desenvolvimento.
 *
 
-   https://cdn-icons-png.flaticon.com/512/523/523461.png 
