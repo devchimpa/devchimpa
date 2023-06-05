@@ -1,4 +1,4 @@
-Olá, Eu sou o DevChimpa!
+🐒 Olá, Eu sou o DevChimpa!
 
 Entusiasta em tecnologia com grande interesse em projetos open-source, como Linux e Arduino. 
 Tenho paixão por aprender sobre hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. 
