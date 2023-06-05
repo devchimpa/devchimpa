@@ -10,7 +10,8 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 <img width='100' height='100' src="https://cdn-icons-png.flaticon.com/512/10527/10527707.png"/> <img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"/><img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/5797/5797394.png"/><img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2&theme=chartreuse-dark)](https://github.com/devchimpa/github-readme-stats&theme=chartreuse-dark) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devchimpa&repo=github-readme-stats&theme=chartreuse-dark)](https://github.com/devchimpa/github-readme-stats&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2&theme=chartreuse-dark)](https://github.com/devchimpa/github-readme-stats&theme=chartreuse-dark) 
+
 </div>
 
 
