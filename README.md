@@ -11,4 +11,4 @@ Possuo conhecimento em Linux, Shellscript e atualmente buscando aprimorar minhas
 No momento, estou focado em expandir meu conhecimento em Python e Segurança da Informação, em busca de novas oportunidades de crescimento e desenvolvimento.
 *
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2)](https://github.com/devchimpa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=2)](https://github.com/devchimpa/github-readme-stats&theme=dark)
