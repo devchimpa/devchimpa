@@ -11,7 +11,7 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=80&theme=chartreuse-dark)](https://github.com/devchimpa/github-readme-stats&theme=chartreuse-dark) 
 
-  
+  https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif
 
 </div>
 
