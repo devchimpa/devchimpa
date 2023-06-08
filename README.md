@@ -16,4 +16,4 @@
   </tr>
 </table>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=8&theme=chartreuse-dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=8&theme=chartreuse-dark) <img width='75' height='75' src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"/>
