@@ -15,4 +15,4 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/devchimpa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa)](https://github.com/anuraghazra/github-readme-stats)
