@@ -16,7 +16,10 @@
   </tr>
 </table>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=8&theme=chartreuse-dark)  <table>
+  <table>
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=8&theme=chartreuse-dark)  
+  
   <tr>
     <td style="padding-right: 10px;">
       <img width='100' height='100' src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"/>
