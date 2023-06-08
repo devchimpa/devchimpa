@@ -15,7 +15,4 @@ No momento, estou focado em expandir meu conhecimento em Python e Segurança da 
 
 </div>
 
-
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa)](https://github.com/devchimpa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchimpa&theme=dark&show_icons=true)
