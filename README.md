@@ -1,7 +1,7 @@
 <h2>🐒 Olá, Eu sou o DevChimpa!</h2>
 
 <div align="center">
-<img width='400' height='250' src="https://i.pinimg.com/originals/52/ce/57/52ce57e7e3cbb5a31cc7792180d734d9.gif"/> 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchimpa&langs_count=8&theme=chartreuse-dark) <img width='400' height='250' src="https://i.pinimg.com/originals/52/ce/57/52ce57e7e3cbb5a31cc7792180d734d9.gif"/> 
 
 
 
