@@ -21,7 +21,3 @@
 
   </div>
  
- <div align="center">
-  
-  <img width='525' height='400' src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif"/> 
-   </div>
