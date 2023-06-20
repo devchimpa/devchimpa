@@ -1,4 +1,5 @@
-<h2>🐒 Olá, Eu sou o DevChimpa! 🐒 </h2>
+<h2>🐒 Olá, Eu sou o DevChimpa! 🐒 :mouse:
+ </h2>
 
 <table>
   <tr>
