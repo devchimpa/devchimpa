@@ -7,7 +7,7 @@
     </td>
     <td>
       <p>
-       Sou um entusiasta de tecnologia com interesse em projetos open-source, como Linux, Arduino e Gimp, entre outros. Tenho paixão por explorar hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. Meu conhecimento abrange Linux, Shellscript, Redes e atualmente estou dedicando para melhorar minhas habilidades em Python e Segurança da Informação. 
+       Sou um entusiasta de tecnologia com interesse em projetos open-source, como Linux, Arduino e Gimp, entre outros. Tenho paixão por explorar hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. Meu conhecimento abrange Linux, Shellscript, Redes e atualmente estou me dedicando para melhorar minhas habilidades em Python e Segurança da Informação. 
 Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
       </p>
     </td>
