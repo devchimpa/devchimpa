@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img width='400' height='250' src="https://i.pinimg.com/originals/52/ce/57/52ce57e7e3cbb5a31cc7792180d734d9.gif"/>
+      <img width='400' height='250' src="https://raw.githubusercontent.com/devchimpa/devchimpa/main/TqB8VAGg_400x400.jpg"/>
     </td>
     <td>
       <p>
