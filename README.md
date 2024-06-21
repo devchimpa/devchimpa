@@ -27,7 +27,10 @@ Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
 <a href="https://www.instagram.com/lobeiraestudios/" >
  <img width='100' height='100' src="https://raw.githubusercontent.com/devchimpa/lobeira_imagens/main/lobeira-removebg-preview.png"/>
 </a>
+<a href="https://github.com/devchimpa/Estudos-Security" >
  <img width='100' height='100' src="https://img.icons8.com/?size=96&id=23317&format=png"/>
+</a>
+
  <a href="https://www.youtube.com/channel/UC5E77cFIaggeMnzOI6C0RaQ"> <img width="100" height="100" src="https://i.pinimg.com/564x/82/a1/f6/82a1f6c92420ee6bf10e1941ebc7f00b.jpg" alt="Ícone do Youtube"> </a>
 
 <br>
