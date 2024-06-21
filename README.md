@@ -35,7 +35,7 @@ Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchimpa&bg_color=000000&color=009936&line=00b30c&point=178a00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <img src="https://i.pinimg.com/originals/a7/0e/fa/a70efaa9c83cf80d8073a416292434e4.gif" alt="codes"> 
+
 
   </div>
  
