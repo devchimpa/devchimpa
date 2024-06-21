@@ -30,9 +30,7 @@ Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
 <a href="https://github.com/devchimpa/Estudos-Security" >
  <img width='100' height='100' src="https://img.icons8.com/?size=96&id=23317&format=png"/>
 </a>
-
- <a href="https://www.youtube.com/channel/UC5E77cFIaggeMnzOI6C0RaQ"> <img width="100" height="100" src="https://i.pinimg.com/564x/82/a1/f6/82a1f6c92420ee6bf10e1941ebc7f00b.jpg" alt="Ícone do Youtube"> </a>
-
+ <a href="https://www.youtube.com/channel/UC5E77cFIaggeMnzOI6C0RaQ"> <img width="75" height="75" src="https://i.pinimg.com/564x/82/a1/f6/82a1f6c92420ee6bf10e1941ebc7f00b.jpg" alt="Ícone do Youtube"> </a>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchimpa&bg_color=000000&color=009936&line=00b30c&point=178a00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
