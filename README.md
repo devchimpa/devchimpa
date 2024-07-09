@@ -15,7 +15,7 @@ Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
 </table>
  <div align="center">
   
-<a href="https://github.com/devchimpa/Scripts_trampo">
+<a href="https://devchimpa.wordpress.com/">
         <img width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="icone pinguim">
     </a> 
 <a href="https://github.com/devchimpa/Scripts_trampo">
