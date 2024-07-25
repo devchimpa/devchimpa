@@ -1,10 +1,10 @@
 <h2>🐒 Olá, Eu sou o DevChimpa! 🐒 </h2>
 
 <table>
- <td style="text-align: center;">
+  <tr>
+    <td style="text-align: center;">
       <img src="https://raw.githubusercontent.com/devchimpa/devchimpa/main/TqB8VAGg_400x400.jpg"  style="width: 50%; max-width: 200px; height: auto;" />
     </td>
-  <tr>
     <td>
       <p>
        Sou um entusiasta de tecnologia com interesse em projetos open-source, como Linux, Arduino e Gimp, entre outros. Tenho paixão por explorar hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. Meu conhecimento abrange Linux, Shellscript, Redes e atualmente estou me dedicando para melhorar minhas habilidades em Python e Segurança da Informação. 
