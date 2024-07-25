@@ -1,7 +1,7 @@
 <h2>🐒 Olá, Eu sou o DevChimpa! 🐒 </h2>
 <tr>
  <td>
-      <img src="https://raw.githubusercontent.com/devchimpa/devchimpa/main/TqB8VAGg_400x400.jpg"  style="width: 100%; max-width: 200px; height: auto;" />
+      <img src="https://raw.githubusercontent.com/devchimpa/devchimpa/main/TqB8VAGg_400x400.jpg"  style="width: 10%; max-width: 200px; height: auto;" />
     </td>
   
 </tr>
