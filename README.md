@@ -2,9 +2,6 @@
 
 <table>
   <tr>
-    <td style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devchimpa/devchimpa/main/TqB8VAGg_400x400.jpg"  style="width: 100%; max-width: 400px; height: auto;" />
-    </td>
     <td>
       <p>
        Sou um entusiasta de tecnologia com interesse em projetos open-source, como Linux, Arduino e Gimp, entre outros. Tenho paixão por explorar hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. Meu conhecimento abrange Linux, Shellscript, Redes e atualmente estou me dedicando para melhorar minhas habilidades em Python e Segurança da Informação. 
