@@ -4,8 +4,9 @@
   <tr>
     <td>
       <p>
-       Sou um entusiasta de tecnologia com interesse em projetos open-source, como Linux, Arduino e Gimp, entre outros. Tenho paixão por explorar hardwares, softwares e todas as áreas que envolvem criatividade e tecnologia. Meu conhecimento abrange Linux, Shellscript, Redes e atualmente estou me dedicando para melhorar minhas habilidades em Python e Segurança da Informação. 
-Estou sempre em busca de novas oportunidades para crescer e me desenvolver."
+       Sou um profissional com habilidades em Linux e Shellscript, com experiência prática na administração e automação de ambientes críticos. Minhas habilidades incluem programação em Python, compreensão em redes e conectividade entre servidores. Tenho experiência com gerenciamento de arquivos, servidores de domínio, proxy, DHCP e configuração de regras de segurança com IPTables.
+
+Minha busca por conhecimento está focada, atualmente, em Segurança da Informação, estudando scanners de vulnerabilidades, gestão de riscos e testes de intrusão. Estou comprometido em aprimorar minha habilidade de proteger ambientes corporativos, garantindo a integridade e segurança dos dados.
       </p>
     </td>
   </tr>
