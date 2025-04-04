@@ -21,10 +21,7 @@ Minha busca por conhecimento está focada, atualmente, em Segurança da Informa�
 </a>
 <a href="https://github.com/devchimpa/jornada_python">
 <img width='100' height='100' src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="icone python" />
-</a>
-<a href="https://www.instagram.com/lobeiraestudios/" >
- <img width='100' height='100' src="https://raw.githubusercontent.com/devchimpa/lobeira_imagens/main/lobeira-removebg-preview.png"/>
-</a>
+
 <a href="https://github.com/devchimpa/Estudos-Security" >
  <img width='100' height='100' src="https://img.icons8.com/?size=96&id=23317&format=png"/>
 </a>
