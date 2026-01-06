@@ -4,9 +4,9 @@
   <tr>
     <td>
       <p>
-       Sou um profissional com habilidades em Linux e Shellscript, com experiência prática na administração e automação de ambientes críticos. Minhas habilidades incluem programação em Python, compreensão em redes e conectividade entre servidores. Tenho experiência com gerenciamento de arquivos, servidores de domínio, proxy, DHCP e configuração de regras de segurança com IPTables.
-
-Minha busca por conhecimento está focada, atualmente, em Segurança da Informação, estudando scanners de vulnerabilidades, gestão de riscos e testes de intrusão. Estou comprometido em aprimorar minha habilidade de proteger ambientes corporativos, garantindo a integridade e segurança dos dados.
+       Analista de Sistemas focado em Linux e Cibersegurança, direcionando a carreira para Red Team.
+Background em infraestrutura, redes, hardening, monitoramento e detecção, com atuação em ambientes reais.
+Em desenvolvimento em cibersegurança ofensiva, exploração de vulnerabilidades e simulação de ataques.
       </p>
     </td>
   </tr>
