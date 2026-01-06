@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p>
-       Analista de Sistemas focado em Linux e Cibersegurança, direcionando a carreira para Red Team.
+       Analista de Sistemas focado em Linux e Cibersegurança, direcionando a carreira para Red Team.<br>
 Background em infraestrutura, redes, hardening, monitoramento e detecção, com atuação em ambientes reais.
 Em desenvolvimento em cibersegurança ofensiva, exploração de vulnerabilidades e simulação de ataques.
       </p>
