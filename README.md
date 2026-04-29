@@ -17,7 +17,7 @@
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
-      <a href="[https://devchimpa.wordpress.com/](https://medium.com/@devchimpa)">
+      <a href="https://medium.com/@devchimpa">
         <img width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="ícone pinguim">
       </a>
     </td>
